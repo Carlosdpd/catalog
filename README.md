@@ -3,4 +3,6 @@ Sample catalog
 
 This is a project... That uses React and Express.
 
-This project is cool. Yes.
+This project is cool.
+
+Minimuim requeriments are:..........
