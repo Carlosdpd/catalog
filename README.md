@@ -3,6 +3,7 @@ Sample catalog
 
 This is a project... That uses React and Express.
 
-This project is cool. Yes.
+This project is cool.
 
-master change
+Minimuim requeriments are:......... -modulo de autenticacion listo-
+.
